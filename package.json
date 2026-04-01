@@ -25,7 +25,6 @@
     "appId": "com.quickzack.launcher",
     "productName": "QuickZack",
     "copyright": "Copyright © 2025 QuickZack",
-    "publish": "never",
     "directories": {
       "output": "dist"
     },
